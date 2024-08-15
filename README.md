@@ -60,5 +60,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any inquiries, please contact:
 - **Name:** Alan Almeida
-- **Email:** alanalmeidadev12@gmail.com
-- **GitHub:** [yourusername](https://github.com/DevAlanAlmeida)
+- **Email:** alanalmeidadev12@example.com
+- **GitHub:** [Alan Almeida](https://github.com/AlanCodeQuality)
