@@ -59,6 +59,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries, please contact:
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Name:** Alan Almeida
+- **Email:** alanalmeidadev12@gmail.com
+- **GitHub:** [yourusername](https://github.com/DevAlanAlmeida)
